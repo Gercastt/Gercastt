@@ -1,15 +1,15 @@
-# 👋 Hi, I’m Germán Castillo
+# 👋 Hola, Soy Germán Castillo
 ![My stats](https://github-readme-stats.vercel.app/api?username=Gercastt&count_private=true&show_icons=true&theme=radical)
 
-I am a QA tester.
+Soy Tester Jr.
 
-## 💪🏼 Skills
+## 💪🏼 Habilidades
 - Jira
 - Postman
-- Agile methodology
+- Metodologías Agiles
 - Scrum
 - Database
 - Git
 
-## 👀 You can find me at:
+## 👀 Contacto:
 - Linkedin: [Germán Castillo](https://www.linkedin.com/in/germán-leonardo-castillo-3bb2a4187/)
