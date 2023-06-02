@@ -12,4 +12,4 @@ I am a QA tester.
 - Git
 
 ## 👀 You can find me at:
-- Linkedin: [germanleonardocastillo](https://www.linkedin.com/in/tulinkedin/)
+- Linkedin: [Germán Castillo](https://www.linkedin.com/in/germán-leonardo-castillo-3bb2a4187/)
