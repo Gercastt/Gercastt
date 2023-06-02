@@ -1,4 +1,4 @@
-# 👋 Hola, Soy Germán Castillo
+# 👋 Hola! Soy Germán Castillo
 ![My stats](https://github-readme-stats.vercel.app/api?username=Gercastt&count_private=true&show_icons=true&theme=radical)
 
 Soy Tester Jr.
