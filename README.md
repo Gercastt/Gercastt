@@ -1,7 +1,7 @@
 # 👋 Hola! Soy Germán Castillo
 ![My stats](https://github-readme-stats.vercel.app/api?username=Gercastt&count_private=true&show_icons=true&theme=radical)
 
-Tester Jr en proceso..
+***Tester Jr en proceso..***
 
 ## 💪🏼 Habilidades
 - Jira
